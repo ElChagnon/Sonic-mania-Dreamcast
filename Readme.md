@@ -14,12 +14,13 @@ Maintenant le problème est que **Sonic Mania utilise RSDKV5** donc on va devoir
 **Et si je ne me trompe le son sera pratiquement impossible a faire fonctionner** 
 
  
+**Recherche des librairie compatible** ![3%](https://progress-bar.dev/3?width=190)
+
 Bonne nouvelle SDL2,libogg,libvorbis,libtheora et libvorbis fonctionne sur la dreamcast 
 Je ne vais pas essayer de porter Sonic Mania directement mais Sonic Nexus 2008 
 
 Et si le jeu fonction alors Sonic Mania marchera à 100%
 
-**Recherche des librairie compatible** ![3%](https://progress-bar.dev/3?width=190)
 
 
 #
